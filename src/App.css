@@ -1,0 +1,22 @@
+.ToDoWrapper{
+  background-color: #1D3658;
+  padding: 3rem;
+
+}
+.ToDoForm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todo-inpt{
+  background-color: transparent;
+  border: solid 1px #999;
+  padding: 1rem;
+  color: #fff;
+}
+.todo-btn{
+  background-color: blueviolet;
+  border: solid 1px blueviolet;
+  color: #fff;
+  padding: 1rem 2rem;
+}
